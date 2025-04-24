@@ -1,0 +1,19 @@
+autolabeler:
+  - label: 'chore'
+    title:
+      - '/^chore/i'
+  - label: 'bug'
+    title:
+      - '/^fix/i'
+  - label: 'feature'
+    title:
+      - '/^feat/i'
+  - label: 'docs'
+    title:
+      - '/^doc/i'
+  - label: 'refactor'
+    title:
+      - '/^refactor/i'
+  - label: 'breaking'
+    title:
+      - '/.*break/i'
