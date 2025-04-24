@@ -1,3 +1,7 @@
+template: |
+  ## What’s Changed
+  $CHANGES
+
 autolabeler:
   - label: 'chore'
     title:
